@@ -1,3 +1,3 @@
 # Fork_it_Again
 ##* Learning how to use git
-## test two
+##* Learning about cloning, forking, and branching
